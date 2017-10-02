@@ -1,0 +1,149 @@
+#cover {
+  background-image: url("lights.png");
+  background-size: cover;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 80px;
+}
+
+h3 {
+  font-size: 50px;
+}
+
+h4 {
+   font-size: 20px;
+   line-height: 60%;
+}
+
+hr {
+  width: 60%;
+}
+
+body {
+  font-family: "Palatino Linotype";
+  color: white;
+  text-align: center;
+}
+
+a:visited {
+  color: white;
+}
+a:link {
+  color: white;
+}
+a:hover {
+  color: lightblue;
+  text-decoration: none;
+}
+
+.name {
+  color: white;
+  text-align: center;
+  position: fixed;
+  top: 30%;
+  left: 43%;
+}
+
+.row {
+  width: 100%;
+  text-align: right;
+  right: 19%;
+  top: 60%;
+}
+
+.inner {
+  display: inline-block;
+  padding: 15px;
+}
+
+.link {
+  font-size: 24px;
+  color: white;
+  background: none;
+  padding: 20px 30px;
+  border-radius: 4px;
+  border: 3px solid white;
+  transition-duration: 0.3s;
+}
+
+.link:hover {
+  color: white;
+  opacity: 0.2;
+}
+
+#notes {
+  background-image: url("darkWater.png");
+  background-size: cover;
+}
+
+.title {
+  color: white;
+  text-align: center;
+  font-size: 500px;
+}
+
+.term {
+  border: 5px solid white;
+  color: white;
+  text-align: center;
+  margin-top: 20px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  height: 460px;
+  font-size: 300%;
+}
+
+ul {
+  color: lightgray; 
+  list-style-type: none;
+  padding: 0;
+  vertical-align: middle;
+  margin-top: -50%;
+  font-size: 50%;
+}
+
+.courses {
+  margin-top: 60%;
+  line-height: 40px;
+}
+
+.intro {
+  border: 2px solid white;
+  background-color: rgba(255,255,255,0.3);
+  width: 70%;
+  color: white;
+  margin: 30px auto 20px auto;
+  padding-bottom: 20px;
+}
+
+.return {
+  text-align: left;
+  position: fixed;
+  top: 0;
+  margin: 6px 12px 6px 8px;
+}
+
+.totop {
+  text-align: right;
+  position: fixed;
+  bottom: 0;
+  margin: 6px 12px 6px 8px;
+}
+
+embed {
+  width: 70%;
+  height: 1150px;
+  position: center;
+  display: block;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+
+
+
